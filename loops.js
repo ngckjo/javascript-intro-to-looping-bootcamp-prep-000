@@ -24,5 +24,7 @@ function incrementVariable() {
 }
 
 function doWhileLoop(integer) {
-  
+  do{
+    
+  }
   
