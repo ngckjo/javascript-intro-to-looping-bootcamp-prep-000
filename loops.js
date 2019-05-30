@@ -14,5 +14,9 @@ function whileLoop(number) {
   while (number > 0){
     console.log(--number)
   }
-  return "Done"
+  return "done";
+}
+
+function doWhileLoop(integer) {
+  
 }
